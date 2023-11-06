@@ -3,7 +3,7 @@ const getRandomPoke = require('./api.js');
 const path = require('path');
 
 const app = express();
-const port = 3000;
+const port = 80;
 
 app.get('/api/randomPokemon', (req, res) => {
     res.send(getRandomPoke());
