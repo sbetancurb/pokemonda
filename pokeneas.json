@@ -1,0 +1,58 @@
+[
+    {
+        "id":"1",
+        "nombre":"gengar",
+        "altura":"15",
+        "habilidad":"cosquilleo",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/gengar.png",
+        "frase":"A mí me gustan las cuentas claras y el chocolate espeso"
+    },
+    {
+        "id":"2",
+        "nombre":"misdreavus",
+        "altura":"7",
+        "habilidad":"extorsión",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/misdreavus.png",
+        "frase":"Uno no es monedita de oro para caerle bien a todo el mundo"
+    },
+    {
+        "id":"3",
+        "nombre":"giratina",
+        "altura":"69",
+        "habilidad":"estafa",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/giratina.png",
+        "frase":"Píntemela a ver y yo le digo cuántos pares son tres moscas"
+    },
+    {
+        "id":"4",
+        "nombre":"chandelure",
+        "altura":"10",
+        "habilidad":"amenaza",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/chandelure.png",
+        "frase":"¿Durmió conmigo anoche o qué, que no saluda?"
+    },
+    {
+        "id":"5",
+        "nombre":"mimikyu",
+        "altura":"5",
+        "habilidad":"tortura",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/mimikyu.png",
+        "frase":"¿Qué hay pa´hacer? Pues, empanadas que es lo quemás se vende."
+    },
+    {
+        "id":"6",
+        "nombre":"dragapult",
+        "altura":"30",
+        "habilidad":"engaño",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/dragapult.png",
+        "frase":"Juemadre, juemichica, juepucha, y todos los juez que usted ha escuchado"
+    },
+    {
+        "id":"7",
+        "nombre":"lunala",
+        "altura":"40",
+        "habilidad":"visaje",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/lunala.png",
+        "frase":" Tome pa'la gaseosa"
+    }
+]
