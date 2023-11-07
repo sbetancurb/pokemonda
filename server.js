@@ -5,6 +5,8 @@ const path = require('path');
 const app = express();
 const port = 80;
 
+app.use(express.static('public'));
+
 app.get('/api/randomPokemon', (req, res) => {
     res.send(getRandomPoke());
 })
@@ -14,5 +16,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`);
+    console.log('Example app listening on port', port);
 })

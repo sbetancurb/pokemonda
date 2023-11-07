@@ -4,15 +4,15 @@
         "nombre":"gengar",
         "altura":"15",
         "habilidad":"cosquilleo",
-        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/gengar.png",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/gengar.jpeg",
         "frase":"A mí me gustan las cuentas claras y el chocolate espeso"
     },
     {
         "id":"2",
-        "nombre":"misdreavus",
+        "nombre":"umbreon",
         "altura":"7",
         "habilidad":"extorsión",
-        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/misdreavus.png",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/umbreon.jfif",
         "frase":"Uno no es monedita de oro para caerle bien a todo el mundo"
     },
     {
@@ -20,15 +20,15 @@
         "nombre":"giratina",
         "altura":"69",
         "habilidad":"estafa",
-        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/giratina.png",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/giratina.jpeg",
         "frase":"Píntemela a ver y yo le digo cuántos pares son tres moscas"
     },
     {
         "id":"4",
-        "nombre":"chandelure",
+        "nombre":"sylveon",
         "altura":"10",
         "habilidad":"amenaza",
-        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/chandelure.png",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/sylveon.jfif",
         "frase":"¿Durmió conmigo anoche o qué, que no saluda?"
     },
     {
@@ -36,15 +36,15 @@
         "nombre":"mimikyu",
         "altura":"5",
         "habilidad":"tortura",
-        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/mimikyu.png",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/mimikyu.jpeg",
         "frase":"¿Qué hay pa´hacer? Pues, empanadas que es lo quemás se vende."
     },
     {
         "id":"6",
-        "nombre":"dragapult",
+        "nombre":"greninja",
         "altura":"30",
         "habilidad":"engaño",
-        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/dragapult.png",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/greninja.jpeg",
         "frase":"Juemadre, juemichica, juepucha, y todos los juez que usted ha escuchado"
     },
     {
@@ -52,7 +52,31 @@
         "nombre":"lunala",
         "altura":"40",
         "habilidad":"visaje",
-        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/lunala.png",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/lunala.jfif",
+        "frase":" Tome pa'la gaseosa"
+    },
+    {
+        "id":"8",
+        "nombre":"pikachu",
+        "altura":"15",
+        "habilidad":"visaje",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/pikachu.jpeg",
+        "frase":" Tome pa'la gaseosa"
+    },
+    {
+        "id":"9",
+        "nombre":"charmander",
+        "altura":"15",
+        "habilidad":"visaje",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/charmander.jpeg",
+        "frase":" Tome pa'la gaseosa"
+    },
+    {
+        "id":"10",
+        "nombre":"leafeon",
+        "altura":"18",
+        "habilidad":"visaje",
+        "imagen":"https://storage.googleapis.com/pokeneas_saimondono/leafeon.jpeg",
         "frase":" Tome pa'la gaseosa"
     }
 ]

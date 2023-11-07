@@ -1,0 +1,25 @@
+@font-face {
+    font-family: pokemon;
+    src: url(Pokemon.ttf);
+}
+
+*{
+    font-family: pokemon;
+    letter-spacing: 5px;
+}
+
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)), 
+    url('https://storage.googleapis.com/pokeneas_saimondono/background.jpg');
+    background-size: cover;
+}
+
+h3 {
+    color: white;
+    font-size: 400%;
+}
+
+#randomize{
+    
+    font-size: 30px;
+}
