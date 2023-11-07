@@ -27,11 +27,10 @@
     <br>
     <br>
     <div id="pokeCard" hidden class="card"
-        style="object-fit: cover; margin-top: 5px; margin-right: 700px; margin-left: 700px;" 
-        type="button" data-bs-toggle="modal"
-        data-bs-target="#infoModal{{loop.index}}">
+        style="object-fit: cover; margin-top: 5px; margin-right: 700px; margin-left: 700px;">
         <img id="pokeImgOut" src="" class="card-img-top" alt="...">
-        <div class="card-body">
+        <div class="card-body" type="button" data-bs-toggle="modal"
+        data-bs-target="#infoModal{{loop.index}}">
             <h5 id="pokeNameOut" class="card-title text-center">Pokemon Name</h5>
         </div>
     </div>
